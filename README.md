@@ -1,6 +1,6 @@
 # Page-404
 
-💻 **_Desafio realizado no curso de Front-end do Start LATAM 2020._**
+💻 **Desafio de uma _Page-404-Error_ realizado no curso de Front-end do Start LATAM 2020.**
 
 🚀 _Tecnologias_
 
