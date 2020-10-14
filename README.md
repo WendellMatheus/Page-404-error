@@ -6,6 +6,6 @@
 
 **_HTML5_** | **_CSS3_**
 
-:mag: [Click heere to view the result!] (https://page-404-error-2y9expnty.vercel.app/) :mag_right:
+:mag: [Click heere to view the result!](https://page-404-error-2y9expnty.vercel.app/) :mag_right:
 
 ![img-404-erro](https://user-images.githubusercontent.com/66651329/95682719-2b69a380-0bbd-11eb-8439-d62da5235d08.JPG)
